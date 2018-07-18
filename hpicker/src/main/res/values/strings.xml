@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HPicker</string>
+    <string name="image_picker_open_file">Choose</string>
+</resources>
